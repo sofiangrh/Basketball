@@ -1,4 +1,5 @@
 # Basketball
-Simply HTML5 Game
+Simple game with HTML5.
 
-on going
+# Credits to
+mazkan
